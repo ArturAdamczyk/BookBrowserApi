@@ -1,2 +1,5 @@
 # BookBrowserApi
-Server side applciation for BookBrowser Android app
+Server side application for BookBrowser Android app
+
+Created with Spring + PostgreSQL. 
+Available via Heroku:
